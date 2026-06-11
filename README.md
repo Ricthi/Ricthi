@@ -25,7 +25,7 @@ By day I’m an AI & ML developer, by night I’m the creative director of Richi
 
 📫 Reach me  
 - Email: dreamnasa1774@gmail.com 
-- Portfolio: [richierich.framer.website](https://richierich.framer.website/)  
+- Portfolio: [richierich.framer.website]((https://richierich.framer.website/))  
 - LinkedIn: [Richard Janas K](https://www.linkedin.com/in/richard-janas-k-profile/)  
 
 # 💻 Tech Stack:

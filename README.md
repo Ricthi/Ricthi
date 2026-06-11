@@ -24,8 +24,8 @@ AI & ML, computer vision, Python, Streamlit, branding, or how to make a product 
 By day I’m an AI & ML developer, by night I’m the creative director of Richie Designs in my own head.  
 
 📫 Reach me  
-- Email: dreamnasa1774@gmail.com 
-- Portfolio: [richierich.framer.website]([(https://richierich.framer.website/)](https://richierich.framer.website/))  
+- Email: dreamnasa1774@gmail.com
+- Portfolio: [richierich.framer.website](https://richierich.framer.website/)
 - LinkedIn: [Richard Janas K](https://www.linkedin.com/in/richard-janas-k-profile/)  
 
 # 💻 Tech Stack:

@@ -1,41 +1,88 @@
-## Hi I'm RICHARD JANAS.K👋
-  
+<div align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Ricthi banner" />
+</div>
 
-💫 About Me  
-I build AI and product experiences that look premium and feel fast.  
-I treat every project like a brand and every repo like an asset.  
+<h1 align="center">Hi, I'm Richard Janas K</h1>
+<h3 align="center">UI/UX Designer • Product Designer • 3D Visual Designer • AI Builder</h3>
 
-🔭 Currently  
-Designing and developing AI‑driven apps and bold, minimal digital experiences that could ship as real products.  
+<p align="center">
+I design clean digital products, build responsive web experiences, create 3D visuals, and explore AI tools for OCR and interactive apps.
+</p>
 
-🌱 Leveling up  
-Pushing deeper into AI & ML, computer vision, and product thinking – how to go from idea to something a company would actually use.  
+<p align="center">
+  <a href="https://richierich.framer.website/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  <a href="mailto:dreamnasa1774@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/richard-janas-k-profile/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+</p>
 
-👯 Open to  
-Working with teams and brands that want sharp design, clean engineering, and a bit of **Richie** attitude in their product.  
-
-🤝 What I’m looking for  
-Serious problems to solve with AI, room to experiment, and people who care about both aesthetics and performance.  
-
-💬 Ask me about  
-AI & ML, computer vision, Python, Streamlit, branding, or how to make a product feel high‑end without overcomplicating it.  
-
-⚡ Fun fact  
-By day I’m an AI & ML developer, by night I’m the creative director of Richie Designs in my own head.  
-
-📫 Reach me  
-- Email: dreamnasa1774@gmail.com
-- Portfolio: [richierich.framer.website](https://richierich.framer.website/)
-- LinkedIn: [Richard Janas K](https://www.linkedin.com/in/richard-janas-k-profile/)  
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Coughyyee&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Coughyyee&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coughyyee&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![RICHIE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=richie&bg_color=0d1117&color=15d14d&line=20a222&point=ffffff&area=true&hide_border=true)](https://github.com/Richie/github-readme-activity-graph)
 ---
-[![](https://visitcount.itsvg.in/api?id=Coughyyee&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+- I build AI and product experiences that look premium and feel fast.
+- I care about visual detail, usability, and strong product thinking.
+- I work across design, 3D, and front-end to turn ideas into real projects.
+- I like clean systems, sharp layouts, and thoughtful motion.
+- I am always improving my portfolio and project quality.
+
+## Current focus
+
+- Designing better portfolio and case study pages.
+- Building AI-driven apps and interactive web experiences.
+- Improving Tamil OCR and computer vision workflows.
+- Creating 3D visuals for landing pages and product concepts.
+- Learning better product design and front-end patterns.
+
+## Featured projects
+
+- [Aura Richie](https://aurarichie.framer.website/) - design-focused web experience.
+- [Appli Richie](https://applitrichie.framer.website/) - app-style product concept.
+- [Pizza Corner Richie](https://pizzacornerrichie.framer.website/) - brand and food website concept.
+- [Backigeny](https://backigeny.framer.website/) - another product or brand style project.
+
+## Tech stack
+
+### Design
+Figma, Framer, Blender, Photoshop, Illustrator, Canva
+
+### Development
+HTML, CSS, JavaScript, Python, Streamlit, Git, GitHub
+
+### AI / ML
+Tesseract OCR, PyTorch, OpenCV, Grad-CAM, model fine-tuning, image annotation
+
+### Platforms
+Vercel, Firebase, Netlify, FastAPI, Django
+
+## What I like building
+
+- Product landing pages with strong hierarchy.
+- AI tools with useful visual feedback.
+- 3D-heavy hero sections and polished motion.
+- Simple interfaces that still feel premium.
+- Brand identities that look consistent across web and social.
+
+## GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ricthi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricthi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+## Connect
+
+<p>
+  <a href="mailto:dreamnasa1774@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/richard-janas-k-profile/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://richierich.framer.website/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ricthi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>

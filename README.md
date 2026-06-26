@@ -1,6 +1,6 @@
 <div align="center">
 
-"<img src="https://github.com/user-attachments/assets/your-image-id" alt="Richard Janas K Banner" width="100%" />" alt="Richard Janas K banner" width="100%" />
+<img width="2172" height="724" alt="RICHIE BANNER" src="https://github.com/user-attachments/assets/dfb5669b-4f09-4f92-ae31-337c943467d8" />
 
 # Richard Janas K
 
@@ -58,26 +58,23 @@ A concept project that explores structured layout, product storytelling, and pre
 
 ## Stack
 
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,html,css,js" />
+<h2 align="center">🎨 Design</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai" />
 </p>
 
-### Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,firebase,django,fastapi" />
+<h2 align="center">💻 Development</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,fastapi,firebase,git,github,vscode,docker,postgres,redis" />
 </p>
 
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Tesseract-OCR-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-AI-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grad--CAM-Visualization-0A0A0A?style=for-the-badge" />
+<h2 align="center">🤖 AI / ML</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow" />
 </p>
-
----
-
 ## Current focus
 
 - Better portfolio storytelling
@@ -104,10 +101,11 @@ A concept project that explores structured layout, product storytelling, and pre
 ## Contribution graph
 
 <div align="center">
-  <img src="https://github.com/Ricthi/Ricthi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Designing+the+Future.;Building+AI+Products.;Crafting+Premium+Digital+Experiences.;UI%2FUX+%7C+AI+%7C+3D+%7C+Creative+Technology" />
+
 </div>
 
----
 
 ## Connect
 

@@ -6,7 +6,7 @@
 <h3 align="center">UI/UX Designer • Product Designer • 3D Visual Designer • AI Builder</h3>
 
 <p align="center">
-I design clean digital products, build responsive web experiences, create 3D visuals, and explore AI tools for OCR and interactive apps.
+I build premium digital experiences with clean design, thoughtful motion, 3D visuals, and AI-powered tools.
 </p>
 
 <p align="center">
@@ -19,26 +19,26 @@ I design clean digital products, build responsive web experiences, create 3D vis
 
 ## About me
 
-- I build AI and product experiences that look premium and feel fast.
-- I care about visual detail, usability, and strong product thinking.
-- I work across design, 3D, and front-end to turn ideas into real projects.
-- I like clean systems, sharp layouts, and thoughtful motion.
-- I am always improving my portfolio and project quality.
+- I design and build products that feel sharp, modern, and useful.
+- I work across UI/UX, web design, 3D visuals, and AI workflows.
+- I care about clarity, hierarchy, polish, and performance.
+- I like turning ideas into real, shippable digital experiences.
+- I keep improving my portfolio, systems, and execution.
 
-## Current focus
+## What I’m doing now
 
-- Designing better portfolio and case study pages.
 - Building AI-driven apps and interactive web experiences.
+- Designing better portfolio projects and case studies.
 - Improving Tamil OCR and computer vision workflows.
-- Creating 3D visuals for landing pages and product concepts.
-- Learning better product design and front-end patterns.
+- Creating landing pages with 3D and motion.
+- Learning deeper product thinking and front-end craft.
 
-## Featured projects
+## Featured work
 
-- [Aura Richie](https://aurarichie.framer.website/) - design-focused web experience.
+- [Aura Richie](https://aurarichie.framer.website/) - premium web experience.
 - [Appli Richie](https://applitrichie.framer.website/) - app-style product concept.
 - [Pizza Corner Richie](https://pizzacornerrichie.framer.website/) - brand and food website concept.
-- [Backigeny](https://backigeny.framer.website/) - another product or brand style project.
+- [Backigeny](https://backigeny.framer.website/) - product and visual concept work.
 
 ## Tech stack
 
@@ -49,18 +49,18 @@ Figma, Framer, Blender, Photoshop, Illustrator, Canva
 HTML, CSS, JavaScript, Python, Streamlit, Git, GitHub
 
 ### AI / ML
-Tesseract OCR, PyTorch, OpenCV, Grad-CAM, model fine-tuning, image annotation
+Tesseract OCR, PyTorch, OpenCV, Grad-CAM, model fine-tuning, annotation workflows
 
 ### Platforms
 Vercel, Firebase, Netlify, FastAPI, Django
 
 ## What I like building
 
-- Product landing pages with strong hierarchy.
-- AI tools with useful visual feedback.
-- 3D-heavy hero sections and polished motion.
-- Simple interfaces that still feel premium.
-- Brand identities that look consistent across web and social.
+- Clean landing pages with strong visual hierarchy.
+- Product designs that feel premium without noise.
+- AI tools with useful interaction and feedback.
+- 3D-heavy hero sections and visual storytelling.
+- Interfaces that look good and work fast.
 
 ## GitHub stats
 
@@ -71,7 +71,7 @@ Vercel, Firebase, Netlify, FastAPI, Django
 
 ## Connect
 
-<p>
+<p align="center">
   <a href="mailto:dreamnasa1774@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
